@@ -94,8 +94,8 @@ void OnTick()
               }
            }
         }
-        
-        // check number order
+
+      // check number order
       if(counter == 0)
         {
          // check for buy trend
@@ -123,7 +123,5 @@ void OnTick()
 
 
      }
-
-
   }
 //+------------------------------------------------------------------+
